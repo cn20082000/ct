@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JpbDataSourceConfig">
+    <data-sources>
+      <data-source id="a5ca4e9e-1f55-4e2c-b0ed-bcd395201611" name="ct2" url="jdbc:mysql://localhost:3306/ct2?useSSL=false&amp;allowMultiQueries=true&amp;autoReconnect=true&amp;CharSet=utf8&amp;characterEncoding=utf8&amp;useUnicode=true" driverClass="com.mysql.cj.jdbc.Driver" />
+    </data-sources>
+  </component>
+</project>
